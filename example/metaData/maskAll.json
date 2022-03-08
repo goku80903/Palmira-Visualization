@@ -1,0 +1,12 @@
+{
+    "metaData":{
+        "pageLayout": "Fully Automatic Region Parsing", 
+        "pageName": "MaskRCNN_All",
+        "dataPaths": {
+            "train": "/home2/dama.sravani/Palmira/docvisor/newOutputs/MaskRCNNall.json"
+        },
+        "outputMasks": {"groundTruth":1, "rcnnOutput":1, "normalizedOutput":1, "tilingOutput":1, "transformerOutput":1},
+        "defaultDisplayed": ["modelPrediction-mask"]
+
+    }
+}

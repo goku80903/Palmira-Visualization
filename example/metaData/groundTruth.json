@@ -1,0 +1,11 @@
+{
+    "metaData":{
+        "pageLayout": "Fully Automatic Region Parsing", 
+        "pageName": "groundTruth",
+        "dataPaths": {
+            "train": "/home2/dama.sravani/Palmira/docvisor/newOutputs/Original-coco.json"
+        },
+        "outputMasks": {"groundTruth":1},
+        "defaultDisplayed": ["modelPrediction-mask"]
+    }
+}
